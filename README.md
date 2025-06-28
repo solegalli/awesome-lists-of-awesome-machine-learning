@@ -21,3 +21,11 @@ Know of an awesome list that is not here? Make a PR and add it in!
 ## Awesome Machine Learning Interpretability
 
 - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+
+## Awesome Feature Engineering
+
+- [Amazing Feature Engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering)
+
+## Awesome MLOPs
+
+- [Awesome mlops](https://github.com/kelvins/awesome-mlops)
