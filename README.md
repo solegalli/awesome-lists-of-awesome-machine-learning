@@ -11,8 +11,10 @@ Know of an awesome list that is not here? Make a PR and add it in!
 ## Awesome Machine Learning
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Awesome Data Science](https://github.com/academic/awesome-datascience)
 - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Awesome ML for Finance](https://github.com/monopayments/Awesome-ML-in-Finance)**[Not longer updated]**
+- [Applied ML](https://github.com/eugeneyan/applied-ml)
 
 ## Awesome Time Series
 
@@ -29,3 +31,7 @@ Know of an awesome list that is not here? Make a PR and add it in!
 ## Awesome MLOPs
 
 - [Awesome mlops](https://github.com/kelvins/awesome-mlops)
+
+## Awesome Python
+
+- [Awesome Python](https://github.com/vinta/awesome-python)
